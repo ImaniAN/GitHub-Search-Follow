@@ -1,0 +1,9 @@
+{
+    "github_username": "ImaniAN",
+    "fetch_following_api_url": "https://api.github.com/users",
+    "followUN_api_url": "https://api.github.com/user/following",
+    "users_api_url": "https://api.github.com/users",
+    "base_api_url": "https://api.github.com",
+    "access_token": "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",
+    "user_search_api_url": "https://api.github.com/search/users?q=location:durban&per_page=100"
+}
