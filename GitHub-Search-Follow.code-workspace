@@ -1,0 +1,53 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"bierner.emojisense",
+			"piotrpalarz.vscode-gitignore-generator",
+			"steoates.autoimport",
+			"njpwerner.autodocstring",
+			"mgmcdermott.vscode-language-babel",
+			"formulahendry.code-runner",
+			"waderyan.gitblame",
+			"donjayamanne.git-extension-pack",
+			"mhutchie.git-graph",
+			"donjayamanne.githistory",
+			"shaharkazaz.git-merger",
+			"felipecaputo.git-project-manager",
+			"github.codespaces",
+			"github.vscode-pull-request-github",
+			"codezombiech.gitignore",
+			"eamodio.gitlens",
+			"znck.grammarly",
+			"visualstudioexptteam.vscodeintellicode",
+			"visualstudioexptteam.intellicode-api-usage-examples",
+			"xabikos.javascriptsnippets",
+			"yzhang.markdown-all-in-one",
+			"bierner.markdown-emoji",
+			"bierner.markdown-preview-github-styles",
+			"davidanson.vscode-markdownlint",
+			"pkief.material-icon-theme",
+			"christian-kohler.path-intellisense",
+			"esbenp.prettier-vscode",
+			"davidrockburn.py-pack",
+			"ms-python.vscode-pylance",
+			"ms-python.python",
+			"donjayamanne.python-environment-manager",
+			"donjayamanne.python-extension-pack",
+			"kevinrose.vsc-python-indent",
+			"frhtylcn.pythonsnippets",
+			"wallabyjs.quokka-vscode",
+			"tabnine.tabnine-vscode",
+			"wayou.vscode-todo-highlight",
+			"gruntfuggly.todo-tree",
+			"shardulm94.trailing-spaces",
+			"lihui.vs-color-picker",
+			"vscode-icons-team.vscode-icons"
+		]
+	}
+}
